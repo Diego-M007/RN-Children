@@ -11,7 +11,7 @@ export default function ImgComponent() {
       // adicionando a const da uri da imagem no source
       source={Img}
       //   estilizando imagem com tamanho
-      style={{ width: 80, height: 80 }}
+      style={{ width: 80, height: 80, tintColor: "white" }}
     ></Image>
   );
 }
