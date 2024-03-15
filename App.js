@@ -16,6 +16,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
+      {/* Componente do BackGroundImage */}
       <ImgBack>
         {/* Componente pai 1 */}
         <BtnComponent>
